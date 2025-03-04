@@ -154,9 +154,8 @@ The project includes **9 main interfaces** designed to provide a seamless user e
 - Add more features such as credit cards and SMS notifications.
 
 ---
-Add more features such as credit cards and SMS notifications.
-Project Link
-
+## Project Link
+https://github.com/Fatima2001-code/Blackbank_App.git
 
 Thank you for visiting!
 If you like the project or have any questions or suggestions, feel free to reach out via Issues on GitHub. We always welcome contributions and improvements! 🚀
