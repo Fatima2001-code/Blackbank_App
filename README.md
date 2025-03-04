@@ -41,6 +41,7 @@ This project provides complete solutions for managing banking operations through
 - A simple and organized UI with 9 main interfaces.
 - Smooth navigation between different options.
 
+![Alt Text](images/black0.png)
 ---
 
 ## Key Features
@@ -88,7 +89,8 @@ The database was designed using **SQL Server** to ensure high performance and or
 - Logs all transfers between accounts, including details like date and amount.
 - **Primary Key:** `Transaction_id`
 - **Foreign Keys:** `Account_id_sender`, `Account_id_receiver`, and `Employee_id`.
-
+  
+![Alt Text](images/black5.png)
 ---
 
 ## User Interfaces
@@ -125,7 +127,7 @@ The project includes **9 main interfaces** designed to provide a seamless user e
 
 ### Report Printing:
 - Daily, monthly, and yearly reports are generated using advanced SQL queries.
-
+![Alt Text](images/black.png)
 ---
 
 ## Technologies Used
